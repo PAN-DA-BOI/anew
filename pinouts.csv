@@ -1,0 +1,33 @@
+pi pin,arduino pin
+GND,GND
+5v,5v
+gpio 10,11
+gpio 9,12
+gpio 11,13
+gpio 8,10
+,
+,
+GPS, arduino pin
+GND,GND
+5v,5v
+Tx,2
+Rx,3
+,
+,
+RTC,arduino pin
+GND,GND
+5v,5v
+SCL,A5
+SCA,A4
+,
+,
+DHT11,arduino pin
+GND,GND
+5v,5v
+out,9
+,
+,
+GAS,arduino pin
+GND,GND
+5v,5v
+A0,A0
