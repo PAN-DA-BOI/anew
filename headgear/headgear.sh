@@ -7,7 +7,7 @@ mv ./anew/headgear/ /
 rm -rf ./anew/
 
 #Terran, this is where the window manager needs to be installed and set up so that "/headgear/software/pi/main" is the only thing that boots up onscreen
-
+apt-get install i3
 
 
 
