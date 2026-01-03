@@ -4,7 +4,7 @@ I will be born anew. This project is a compromise. Yes, it's a little silly, but
 
 ## getting started
 
-start by getting and sorting the project!
+start by getting and sorting the project! first, git the project and then follow the instructions for each part your building! Each "part" of the project is sorted into how many PIs your willing to use, were tring to cut down on as many as possible. But bare minimum the arm and headgear need a pi each. 
 
 ```
 git clone https://github.com/PAN-DA-BOI/anew.git
