@@ -36,8 +36,8 @@ sudo raspi-config
     * Select "Yes" to enable SPI
 * Run the setup script using the commands below:
 ```
-chmod +x ./headgear/headgear.sh
-./headgear/headgear.sh
+chmod +x ./anew/headgear/headgear.sh
+./anew/headgear/headgear.sh
 ```
 
 

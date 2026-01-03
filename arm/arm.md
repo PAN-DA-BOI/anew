@@ -38,8 +38,8 @@ sudo raspi-config
    * Select "Yes" to enable SPI
 * run "arm//setup.sh" using the commands below
 ```
-chmod +x ./arm/arm.sh
-./arm/arm.sh
+chmod +x ./anew/arm/arm.sh
+./anew/arm/arm.sh
 ```
 
 ## Links
