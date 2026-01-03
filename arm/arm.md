@@ -3,10 +3,10 @@ better limbs are a must
 
 the arm kit is to enhance general connectivity. Adding lora, meshtastic, wifi, and bluetooth.
 
-## server
+## Server
 having a server for testing right on your arm enables you to make quick changes to anythign without the hassle of pulling other equiptment out
 
-## connectivity
+## Connectivity
 sending a message over discord or mechtastic, starting a deauth atack, or bluetoothing to a speaker to share some tunes. all of these require wireless connectivity.
 
 ## BOM
@@ -36,8 +36,24 @@ sudo raspi-config
    * Interfacing Options
    * SPI
    * Select "Yes" to enable SPI
-* run "software/setup.sh" using the commands below
+* run "arm//setup.sh" using the commands below
 ```
-git clone https://github.com/PAN-DA-BOI/Gauntlet-v3.git
-chmod +x ./software/setup.sh
-./software/setup.sh
+chmod +x ./arm/arm.sh
+./arm/arm.sh
+```
+
+## Links
+Pi options:
+* [Raspberry pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
+* [aml-s905x-cc](https://libre.computer/products/aml-s905x-cc/)
+
+Display References:
+* [waveshare 2in display](https://www.waveshare.com/wiki/2inch_LCD_Module)
+* [display pinout](https://www.waveshare.com/2inch-lcd-module.htm#:~:text=Connecting%20With%20Raspberry%20Pi)
+
+Meshtastic Device:
+* [T-Beam] (https://lilygo.cc/products/t-beam-meshtastic?variant=51708927738037)
+
+3D files:
+* [Tinkercad](https://www.tinkercad.com/things/ffUa8IlDIRD-v3/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d)
+* [thingiverse] (https://www.thingiverse.com/thing:7260150)
