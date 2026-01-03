@@ -1,0 +1,5 @@
+2x IR-cut ardu-cam 1080 (2mp)
+1x Raspberry pi (or AML-S905X-CC)
+1x Bigeyes H1 USB-C
+misc printed parts
+general hardware (screws, nuts, bolts, and other miscellaneous parts)
