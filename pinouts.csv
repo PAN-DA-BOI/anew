@@ -31,3 +31,23 @@ GAS,arduino pin
 GND,GND
 5v,5v
 A0,A0
+,
+,
+PI,button 1
+GND,GND
+gpio17,G1
+,
+,
+PI,button 2
+GND,GND
+gpio27,G1
+,
+,
+PI,button 3
+GND,GND
+gpio22,G1
+,
+,
+PI,button 4
+GND,GND
+gpio23,G1
