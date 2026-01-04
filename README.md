@@ -2,6 +2,8 @@
 
 I will be born anew. This project is a compromise. Yes, it's a little silly, but I've been repeatedly told I'm explicitly *not* allowed to remove parts of my body just to replace them with metal. In this light, I (and my smartest/best friends) are making gadgets to help me become the cyborg I was truly meant to be.
 
+Edit from your boyfriend: you can replace parts of your body with metal, I'm just not ok with you removing 20% of your body mass in one fell swoop to accomplish that. If you want to progressively replace portions of your arm with robotic parts, so long as you were responsible about it, thats fine, even to the point where its eventually replaced entirely. I just don't want you to have to deal with the medical complications that a major limb amputation entails unless the benefit outweighs the risk (Such as, most of or the entire limb has died, become infected, or otherwise not safe to keep any longer.). Anyways lets ship of theseus your ass
+
 ## getting started
 
 start by getting and sorting the project! first, git the project and then follow the instructions for each part your building! Each "part" of the project is sorted into how many PIs your willing to use, were tring to cut down on as many as possible. But bare minimum the arm and headgear need a pi each. 
