@@ -26,14 +26,6 @@ we can also use the display to readout data from sensors elsewhere in the kit
 
 
 ## Software Guide
-* Enable SPI on the Pi using the command below:
-```
-sudo raspi-config
-```
-  * Use the arrow keys in the menu and enter to select the following:
-    * Interfacing Options
-    * SPI
-    * Select "Yes" to enable SPI
 * Run the setup script using the commands below:
 ```
 chmod +x ./anew/headgear/headgear.sh
@@ -51,5 +43,5 @@ chmod +x ./anew/headgear/headgear.sh
 
 **3D Files:**
 * [Tinkercad](https://www.tinkercad.com/things/a97szCPA83t-headgear?sharecode=WnLmPbKwnU4mmVunEaWUQLv01R9VWd4EFG3OoEN0JlE)
-* [Thingiverse](https://www.thingiverse.com/thing:7260150)
+* [Thingiverse](https://www.thingiverse.com/thing:7260287)
 
