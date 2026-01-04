@@ -35,4 +35,4 @@ read more about the [ARM kit](https://github.com/PAN-DA-BOI/anew/blob/developmen
 ## Sensekit
 the sense kit is an arduino addon to get more sensor data.
 
-read more about the [sensekit](https://github.com/PAN-DA-BOI/anew/blob/development/sensekit/sense.md) here.
+read more about the [sensekit](https://github.com/PAN-DA-BOI/anew/blob/development/sensekit/sensekit.md) here.

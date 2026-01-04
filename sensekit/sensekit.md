@@ -30,20 +30,28 @@ chmod +x ./anew/sensekit/headgear.sh
 ./anew/sensekit/headgear.sh
 ```
 
+## setting up the ARM kit with sensekit
 
+* Enable SPI on the Pi using the command below:
+```
+sudo raspi-config
+```
+  * Use the arrow keys in the menu and enter to select the following:
+    * Interfacing Options
+    * SPI
+    * Select "Yes" to enable SPI
+* Run the setup script using the commands below:
+```
+chmod +x ./anew/sensekit/arm.sh
+./anew/sensekit/arm.sh
+```
 
 ## Links
 **microcontroller:**
 * [ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328)
 
-**GPS Module:**
+**Modules:**
 * [NEO-6M GPS Module](https://www.u-blox.com/en/product/neo-6-series)
-
-**Gas Sensor:**
 * [MQ2 Gas/Smoke Sensor](https://www.sparkfun.com/products/9403)
-
-**RTC Module:**
 * [DS3231 Precision RTC Module](https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html)
-
-**Climate Sensor:**
 * [DHT11 Module](https://www.sparkfun.com/products/13763)
