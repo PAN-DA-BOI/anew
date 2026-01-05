@@ -51,7 +51,7 @@ chmod +x ./anew/sensekit/arm.sh
 * [ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328)
 
 **Modules:**
-* [NEO-6M GPS Module](https://www.u-blox.com/en/product/neo-6-series)
-* [MQ2 Gas/Smoke Sensor](https://www.sparkfun.com/products/9403)
-* [DS3231 Precision RTC Module](https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html)
-* [DHT11 Module](https://www.sparkfun.com/products/13763)
+* [NEO-6M GPS Module]([https://www.u-blox.com/en/product/neo-6-series](https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/))
+* [MQ2 Gas/Smoke Sensor]([https://www.sparkfun.com/products/9403](https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/))
+* [DS3231 Precision RTC Module]([https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html](https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/))
+* [DHT11 Module]([https://www.sparkfun.com/products/13763](https://lastminuteengineers.com/dht11-module-arduino-tutorial/))
