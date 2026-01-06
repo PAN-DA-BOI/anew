@@ -50,8 +50,26 @@ chmod +x ./anew/sensekit/arm.sh
 **microcontroller:**
 * [ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328)
 
-**Modules:**
-* [NEO-6M GPS Module](https://www.u-blox.com/en/product/neo-6-series)
-* [MQ2 Gas/Smoke Sensor](https://www.sparkfun.com/products/9403)
-* [DS3231 Precision RTC Module](https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html)
-* [DHT11 Module](https://www.sparkfun.com/products/13763)
+**NEO-6M GPS Module:**
+* [how I learned about this module](https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/)
+* [purchase link (amazon)](https://a.co/d/eaIDu7a)
+* [datasheet](https://www.mantech.co.za/datasheets/products/GY-NEO6MV2.pdf?srsltid=AfmBOor0Y0DsKqGpDZc8DZeQU3oq6dDmILLN76AJ43DxfM7IGO_tq0W3)
+
+**MQ2 Gas/Smoke Sensor:**
+* [how I learned about this module](https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/)
+* [purchase link (amazon)](https://a.co/d/fkaDYwG)
+* [datasheet](https://www.handsontec.com/dataspecs/MQ2-Gas%20Sensor.pdf)
+
+**DS3231 Precision RTC Module**
+* [[how I learned about this module](https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/)
+* [purchase link (amazon)](https://a.co/d/eqo5VmE)
+* [datasheet](https://components101.com/modules/ds3231-rtc-module-pinout-circuit-datasheet)
+
+**DHT11 Module**
+* [how I learned about this module](https://lastminuteengineers.com/dht11-module-arduino-tutorial/)
+* [purchase link (amazon)](https://a.co/d/6rRFbFv)
+* [datasheet](https://www.handsontec.com/dataspecs/sensor/DHT11%20Humidity%20Temp%20Sensor.pdf)
+
+**3D Files:**
+* [Tinkercad](https://www.tinkercad.com/things/bYOG9SPf1Zd-sensekit?sharecode=1UXfmP689aCw8aezX2LEzINphimJ06rz1puhpxoYT78)
+* [Thingiverse](https://www.thingiverse.com/thing:7263738)
