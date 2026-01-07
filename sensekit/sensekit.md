@@ -11,8 +11,11 @@ this give realtime info about the enviroment to help with a better course of act
 * DS3231 Precision RTC Module
 * DHT11 Module
 
-## Hardware Guide
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+## Hardware guide
+* print out "hardware/sensekit-case.stl"
+* solder together the board
+* run the wire to the external modules
+* run the RX/TX, Ground, and 5v lines to the pi
 
 ## setting up the headgear with sensekit
 
