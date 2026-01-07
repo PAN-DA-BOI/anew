@@ -3,10 +3,11 @@
 echo "Updating and upgrading system..."
 apt-get update && apt-get upgrade -y
 
-mv ./anew/headgear/ /
+mv ./anew/headgear/* /root/files
 rm -rf ./anew/
+cd /root/files
 
-#Terran, this is where the window manager needs to be installed and set up so that "/headgear/software/pi/main" is the only thing that boots up onscreen
+#Terran, this is where the window manager needs to be installed and set up so that "/root/files/software/main" is the only thing that boots up onscreen
 apt-get install i3
 
 
